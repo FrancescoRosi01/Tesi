@@ -7,3 +7,4 @@ models/
 *.npy
 Presentazioni
 .DS_Store
+datasets/ds3/
